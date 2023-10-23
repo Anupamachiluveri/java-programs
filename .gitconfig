@@ -1,0 +1,8 @@
+[user]
+	name = Anupamachiluveri
+	email = chiluverianupama@gmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
